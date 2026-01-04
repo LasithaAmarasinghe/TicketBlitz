@@ -1,0 +1,12 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# OS Junk
+*.DS_Store
+Thumbs.db
+
+# K6 output
+summary.json
