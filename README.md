@@ -38,7 +38,7 @@ The system uses Docker to manage the database, ensuring a clean environment.
 docker-compose up -d
 ```
 
-Status: Infrastructure is running. *(Use the screenshot showing your Docker containers running green.)*
+Status: Infrastructure is running.
 
 ### 2. The Vulnerable Endpoint
 
